@@ -1,0 +1,20 @@
+.TopGradientDesign{
+    height: 1rem;
+    width: 100%;
+    top: 0;
+    background: linear-gradient(90deg, #FF0202 0%, #FF7B02 15.5%, #E2E221 31.5%, #23A424 47.5%, #2F50FD 63.5%, #5F0286 80%, #D500FA 96%);
+    
+    
+    z-index: -100;
+}
+
+.bg-container{
+    background: linear-gradient(89.9deg, #FF8D8E 2.27%, rgba(255, 194, 138, 0.5) 15.76%, rgba(255, 255, 139, 0.5) 30.76%, rgba(141, 255, 144, 0.5) 44.26%, rgba(142, 159, 255, 0.5) 60.26%, rgba(222, 145, 255, 0.5) 76.84%, rgba(231, 69, 255, 0.5) 95.75%);
+   
+    min-height: calc(120vh);
+    width: 100%;
+    z-index: -10;
+    position: absolute;
+    
+}
+

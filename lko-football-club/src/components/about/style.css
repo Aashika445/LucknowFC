@@ -1,0 +1,37 @@
+.lucknowFc-heading , .Department-heading{
+        color: #753800;
+        background-color: #FFC38C;
+        border-radius:15px 15px 15px 0px;
+        height: 80px;
+        text-align: center;
+        padding: 1.5rem ;
+        font-size: 22px;
+        font-weight: bold;
+        box-shadow: 0px 4px 4px 0px #00000040;
+        box-shadow: 0px 4px 4px 0px #00000040;
+
+}
+.containers-about{
+        
+        background:  #FED7B3B2;
+        
+       
+        
+        
+        border-radius:0px 15px 15px 15px;;
+        height: 60px;
+        
+       
+        
+        padding: 0.2rem ;
+        
+        font-size: 22px;
+        font-weight: bold;
+        box-shadow: 0px 4px 4px 0px #00000040;
+        box-shadow: 0px 4px 4px 0px #00000040;
+        
+
+}
+
+
+
